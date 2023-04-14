@@ -23,14 +23,6 @@ Open the PitchPerfect.xcodeproj file in Xcode.
 Choose a simulator or a physical device from the scheme menu and click the "Run" button in Xcode to build and run the app.
 Note: The app is built using Swift and requires Xcode to run. The app is compatible with iOS devices running iOS 9.0 or later.
 
-Contributing
-
-If you find any issues or errors in the app or source code, please open an issue on this repository. Pull requests are also welcome.
-
-License
-
-The Pitch Perfect app is licensed under the MIT License. See the LICENSE file for details.
-
 Udacity iOS Nanodegree
 
 The Pitch Perfect app is part of the Udacity iOS Nanodegree program. For more information on the program, visit the Udacity website.
